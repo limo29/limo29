@@ -39,7 +39,7 @@ body, html {height: 100%}
   </div>
   <div class="w3-display-bottomleft w3-padding-large ">
     <div id="aufgabenButton" >
-	    <button class="button" onclick="newAufgabe()" style="vertical-align:middle">Neue Aufgabe</button>
+	    <button class="button" onclick="newAufgabe()" style="vertical-align:middle">Aufgabe</button>
 	</div>
   <!--  Powered by <a href="https://www.w3schools.com/w3css/default.asp" target="_blank">w3.css</a>-->
   </div>
