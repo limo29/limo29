@@ -1,0 +1,29 @@
+{
+
+"short_name": "Suff",
+
+"name": "Saufgame",
+
+"icons": [
+
+{
+
+"src": "/icon.png",
+
+"sizes": "144x144",
+
+"type": "image/png"
+
+}
+
+],
+
+"theme_color": "#303F9F",
+
+"start_url": "/index.html",
+
+"display": "standalone",
+
+"gcm_sender_id": "483951879776"
+
+}
