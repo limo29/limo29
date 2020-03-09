@@ -11,7 +11,7 @@ var aufgaben =[
  "Verteil 4 Schlücke",
  "Verteil 3 Schlücke",
  "Trink!",
- "Straf - Schnaps",
+ "Strafschnaps",
  "Alle die gestern besoffen waren trinken 5 Schlücke",
  "2 Schlücke, wenn du schon einmal bei Google nach 2 girls, 1 cup gesucht hast",
  "Alle Nicht-Vegetarier trinken 5 Schlücke",
