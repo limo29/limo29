@@ -8,7 +8,7 @@
 
 {
 
-"src": "/icon.png",
+"src": "https://github.com/limo29/limo29/blob/master/icon.png",
 
 "sizes": "144x144",
 
@@ -18,7 +18,7 @@
 
 ],
 
-"theme_color": "#ffffff",
+"theme_color": "#000000",
 
 "start_url": "https://www.limo29.github.io/limo29/",
 
