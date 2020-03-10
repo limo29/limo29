@@ -9,7 +9,7 @@ var aufgaben =[
   "Trink 2 Schlücke",
   "Alle die gestern besoffen waren trinken 5 Schlücke",
   "Der jüngste muss sein Glas exen",
- "Der älteste muss sein Glas exen"
+ "Der älteste muss sein Glas exen",
   "Alle auf ex",
  "Verteil 5 Schlücke",
  "Verteil 4 Schlücke",
